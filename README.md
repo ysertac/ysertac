@@ -2,7 +2,7 @@
 
 <p>I&#39;m Electrical & electronics engineer in Turkey, <strong>BackEnd</strong>, <strong>FrontEnd</strong> and <strong>Mobile</strong> developer, I have 2 years of experience.</p>
 
-<a href='https://ysertac.github.io/personalsite/'>My Personal Site</a>
+<a href='https://ysportfoliocv.vercel.app/'>My Personal Site</a>
 
 <h3>Connect with me:</h3>
 
