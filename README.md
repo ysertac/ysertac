@@ -10,7 +10,14 @@
 
 <h3>Languages:</h3>
 
-<p><a href="https://www.java.com" target="_blank"><img alt="java" src="./languages_icon/java.svg" width="40" /></a>&nbsp;&nbsp;&nbsp;<a href="https://spring.io/" target="_blank"><img alt="spring" src="./languages_icon/spring.svg" width="40" /></a>&nbsp;&nbsp;&nbsp;<a href="https://reactjs.org/" target="_blank"><img alt="react" src="./languages_icon/reactjs.svg" width="40" /></a>&nbsp;&nbsp;&nbsp;<a href="https://developer.android.com" target="_blank"><img alt="android" src="./languages_icon/android.svg" width="40" /></a>&nbsp;&nbsp;&nbsp;<a href="https://www.w3schools.com/css/" target="_blank"><img alt="css3" src="./languages_icon/css3.svg" width="40" /></a>&nbsp;&nbsp;&nbsp;<a href="https://www.w3.org/html/" target="_blank"><img alt="html5" src="./languages_icon/html5.svg" width="40" /></a>&nbsp;&nbsp;&nbsp;<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img alt="javascript" src="./languages_icon/javascript.svg" width="40" /></a>&nbsp;&nbsp;&nbsp;</p>
+<p><a href="https://www.java.com" target="_blank"><img alt="java" src="./languages_icon/java.svg" width="40" /></a>&nbsp;&nbsp;&nbsp;<a href="https://spring.io/" target="_blank"><img alt="spring" src="./languages_icon/spring.svg" width="40" /></a>&nbsp;&nbsp;&nbsp;<a href="https://reactjs.org/" target="_blank"><img alt="react" src="./languages_icon/reactjs.svg" width="40" /></a>&nbsp;&nbsp;&nbsp;<a href="https://developer.android.com" target="_blank"><img alt="android" src="./languages_icon/android.svg" width="40" /></a>&nbsp;&nbsp;&nbsp;<a href="https://www.w3schools.com/css/" target="_blank"><img alt="css3" src="./languages_icon/css3.svg" width="40" /></a>&nbsp;&nbsp;&nbsp;<a href="https://www.w3.org/html/" target="_blank"><img alt="html5" src="./languages_icon/html5.svg" width="40" /></a>&nbsp;&nbsp;&nbsp;<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img alt="javascript" src="./languages_icon/javascript.svg" width="40" /></a>&nbsp;&nbsp;&nbsp;<a href="https://www.typescriptlang.org/" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
+      alt="typescript"
+      width="40"
+      height="40"
+    />
+  </a>&nbsp;&nbsp;&nbsp;</p>
 
 <h3>Databases and Tools:</h3>
 
